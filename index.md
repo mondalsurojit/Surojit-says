@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Title: Welcome to Surojit's test blog
 ---
 
