@@ -3,6 +3,7 @@ title: Python Cheat Sheet
 date: 2023-10-30 12:00:00  -500
 categories: [python]
 tags: [python] 
+pin: true
 image:
   path: /assets/images/headers/python.webp
 ---

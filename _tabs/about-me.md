@@ -13,6 +13,8 @@ Hailing from the City of Joy - Kolkata, my passion for STEM subjects ignited at 
 
 From aspiring doctor to budding engineer, my journey took an unexpected turn when I found myself pursuing BTech in Information Technology at **Guru Ghasidas Vishwavidyalaya**, Bilaspur. Balancing academics with my extracurricular pursuits, I've delved into the world of programming, web development, and UI/UX design, fueled by a desire to constantly evolve and grow.
 
+![Image](/assets/images/tks-gpt.png)
+
 ### Beyond the Classroom
 
 In addition to my academic endeavors, I'm an active member of various college tech clubs like **GDSC, GFG** and volunteering organizations like **NSS**, where I channel my energy towards creating meaningful impact within my community.
